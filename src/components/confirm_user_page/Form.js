@@ -1,6 +1,6 @@
 import React from 'react';
-import img_background from './img/img_background.jpg';
-import Icon_Logo from './img/Icon_Logo.jpg';
+import img_background from './img_background.jpg';
+import Icon_Logo from './Icon_Logo.jpg';
 import styled from "styled-components";
 
 const StyledContainer = styled.div`
@@ -39,8 +39,8 @@ const StyledForm = styled.div`
         display: flex;
         flex-direction: column;
         gap: 15px;
-        width: 100%; /* Để các thành phần bên trong chiếm hết chiều rộng */
-        max-width: 300px; /* Giới hạn chiều rộng tối đa cho form */
+        width: 100%;
+        max-width: 300px;
     }
 
     input {

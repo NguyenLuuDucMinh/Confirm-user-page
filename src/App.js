@@ -1,9 +1,15 @@
-import Form from './components/Form';
+import Form from './components/confirm_user_page/Form';
+import Profile from './components/update_profile/Profile';
 
 function App() {
   return (
     <div className="App">
-      <Form/>
+      {/* confirm user page */}
+      {/* <Form/> */}
+
+      {/* update profile */}
+      {/* <Profile/> */}
+
     </div>
   );
 }
