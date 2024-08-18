@@ -8,7 +8,7 @@ function App() {
       {/* <Form/> */}
 
       {/* update profile */}
-      {/* <Profile/> */}
+      <Profile/>
 
     </div>
   );
